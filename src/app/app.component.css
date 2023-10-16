@@ -1,0 +1,9 @@
+.container {
+    min-height: 80%; /* Забезпечує, щоб контейнер займав всю висоту сторінки */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  app-footer {
+    margin-top: auto; /* Підніме футер до нижньої частини контейнера */
+  }
